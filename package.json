@@ -1,0 +1,13 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with typeScript, Node.js and Inquirer",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ummey Habiba",
+  "license": "MIT"
+}
+
