@@ -1,1 +1,1 @@
-# habiba-calculator
+# habiba-simplecalculator
